@@ -10,6 +10,7 @@ There is a total of 268116 ids of popular pixiv image pages collected through th
 
 ##### colored_sketch_pair.csv
 There are 6192 pairs of colored-sketch image page ids, separated by commas. They were collected by first using the two tags "塗ってみた", "塗らせていただきました". Then I parsed the descriptions of collected images and getting the urls in the descriptions that matches pixiv image pages. I went through them manually one by one to check whether it indeed corresponded to a pair of colored-sketch images. There are still wrong pairs that I missed, but I expect the error rate is below 1%. Please let me know if you find them (email: jerrylijiaming [at] gmail.com).
+To my knowledge this should be the only such dataset available.
 
 ##### pixiv_bookmark_list.txt
 This is the list of pixiv bookmarks I used to scrape the popular pixiv images.
