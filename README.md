@@ -16,9 +16,15 @@ This is the list of pixiv bookmarks I used to scrape the popular pixiv images.
 
 ### Example
 
-##### colored_sketch_pair.csv
-![Sketch](https://i.pximg.net/img-original/img/2010/11/15/01/27/54/14577906_p0.png "id 14577906")
-![Colored](https://i.pximg.net/img-original/img/2010/11/18/20/36/00/14646322_p0.jpg "id 14646322")
+#### colored_sketch_pair.csv
+
+##### Sketch
+![Sketch](https://raw.githubusercontent.com/jerryli27/pixiv_dataset/master/14577906_p0.png "id 14577906")
+
+##### Colored
+![Colored](https://raw.githubusercontent.com/jerryli27/pixiv_dataset/master/14646322_p0.jpg "id 14646322")
+
+Both images are cropped and only serve as examples of what the dataset contains. If you want the original image, please follow the download instruction below.
 
 ### Download instruction
 Unfortunately, we cannot directly provide the images since we do not own them. One can use the PixivUtil2 program (https://github.com/Nandaka/PixivUtil2) to batch download pixiv images given their ids. One can also write their own Pixiv scraper. If you only need a few images, you can usually get them through visiting the corresponding url: https://www.pixiv.net/member_illust.php?mode=medium&illust_id=REPLACE_WITH_ID
