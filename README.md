@@ -2,6 +2,8 @@
 
 This repository is for releasing two pixiv related datasets, both originally used for training neural network models for *sketch colorization* task. 
 
+**Note: This repo is quite old and some of the ids provided may be obsolete. e.g. 18539562,18445616 ; 18472825,18464499. Please use with caution.** (Thanks to Shuchita who pointed this out.)
+
 
 ### File description
 
